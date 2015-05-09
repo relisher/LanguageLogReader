@@ -1,0 +1,30 @@
+-injars 'C:\Users\anton\Downloads\slashdot-5639d21785e0\app\build\intermediates\multi-dex\debug\allclasses.jar'
+-outjars 'C:\Users\anton\Downloads\slashdot-5639d21785e0\app\build\intermediates\multi-dex\debug\componentClasses.jar'
+
+-libraryjars 'C:\Users\anton\AppData\Local\Android\sdk\build-tools\22.0.1\lib\shrinkedAndroid.jar'
+
+-forceprocessing
+-dontoptimize
+-dontobfuscate
+-dontpreverify
+-dontwarn
+-printconfiguration 'C:\Users\anton\Downloads\slashdot-5639d21785e0\app\build\intermediates\multi-dex\debug\components.flags'
+
+
+-keep class null {
+    <init>();
+    void attachBaseContext(android.content.Context);
+}
+
+-keep class calab.slashdot.Slashdot {
+    <init>();
+}
+
+-keep public class * extends android.app.backup.BackupAgent {
+    <init>();
+}
+
+-keep public class * extends java.lang.annotation.Annotation {
+    <fields>;
+    <methods>;
+}

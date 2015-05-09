@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\anton\Downloads\slashdot-5639d21785e0\app\libs\jsoup-1.2.3.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="01b6e3f34dd53ded5ca8171184ad7dafb73df84c">
+        <dex dex="C:\Users\anton\Downloads\slashdot-5639d21785e0\app\build\intermediates\pre-dexed\debug\jsoup-1.2.3-b88dde2a1fb0037559e1c1eb81924c19c0638ee2.jar" />
+    </item>
+    <item
+        jar="C:\Users\anton\Downloads\slashdot-5639d21785e0\app\libs\commons-lang-2.5.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="b0236b252e86419eef20c31a44579d2aee2f0a69">
+        <dex dex="C:\Users\anton\Downloads\slashdot-5639d21785e0\app\build\intermediates\pre-dexed\debug\commons-lang-2.5-63ccf3a9865b2a12da6c2a38f22f0ae64959c661.jar" />
+    </item>
+    <item
+        jar="C:\Users\anton\Downloads\slashdot-5639d21785e0\app\libs\jsoup-1.3.3.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="73eacb1d222b2dcdc0b779db6bad7b0ef9878e65">
+        <dex dex="C:\Users\anton\Downloads\slashdot-5639d21785e0\app\build\intermediates\pre-dexed\debug\jsoup-1.3.3-f591c88e5ed3dc306d4f189f9bb69ae9c69d0a64.jar" />
+    </item>
+
+</items>

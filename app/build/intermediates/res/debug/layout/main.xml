@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+       <android.gesture.GestureOverlayView
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/gestures"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    
+    android:gestureStrokeType="multiple"
+    android:eventsInterceptionEnabled="true"
+    android:orientation="vertical">
+    
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    >
+     
+<WebView  
+	android:id="@+id/WebView"
+    android:layout_width="fill_parent" 
+    android:layout_height="fill_parent" 
+    android:text="@string/hello"
+    />
+<ListView android:id="@+id/android:list" android:layout_width="fill_parent" android:layout_height="wrap_content"></ListView>
+<ListView android:id="@+id/CommentView" android:layout_width="fill_parent" android:layout_height="wrap_content"></ListView>
+</FrameLayout>
+</android.gesture.GestureOverlayView>
+<!-- From: file:/C:/Users/anton/Downloads/slashdot-5639d21785e0/app/src/main/res/layout/main.xml -->

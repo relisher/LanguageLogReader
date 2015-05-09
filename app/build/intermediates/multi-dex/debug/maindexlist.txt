@@ -1,0 +1,15 @@
+
+calab/slashdot/Slashdot$CommentAdapter.class
+org/jsoup/nodes/Document.class
+calab/slashdot/Slashdot$StoryAdapter.class
+calab/slashdot/Story.class
+org/jsoup/nodes/Node.class
+calab/slashdot/Slashdot$4.class
+calab/slashdot/Slashdot$3.class
+org/jsoup/nodes/Element.class
+calab/slashdot/Slashdot.class
+calab/slashdot/Slashdot$2.class
+calab/slashdot/Slashdot$5.class
+calab/slashdot/RssHdlr.class
+calab/slashdot/Slashdot$1.class
+org/jsoup/Jsoup.class
